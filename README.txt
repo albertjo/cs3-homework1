@@ -1,3 +1,3 @@
 Hello, World!
 
-Edited from my computer
+Edited in both places.
